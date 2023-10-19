@@ -1,0 +1,1 @@
+# go-hello-shared-object-custom
